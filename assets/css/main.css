@@ -4347,7 +4347,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .fa-github {
-  color: #333333;
+  color: grey;
 }
 
 .fa-twitter {
@@ -5496,6 +5496,10 @@ img.mfp-img {
 
 .about h1 {
   color: #FFFFFF;
+}
+
+.col-md-6 {
+  margin-bottom: 60px;
 }
 
 /* --------------------- */
