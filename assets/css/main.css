@@ -6028,8 +6028,15 @@ img.mfp-img {
   color: #7F8C8D;
 }
 
+.contact-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .contact-info li {
   padding-bottom: 30px;
+  margin: 0 40px;
 }
 
 .contact-info h3 {
