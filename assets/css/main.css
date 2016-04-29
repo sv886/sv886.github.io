@@ -342,6 +342,11 @@ a:hover, a:focus {
   margin-top: 30px;
 }
 
+.col-md-3 a {
+  font-size: 1.5em;
+  color: #FFFFFF;
+}
+
 /* --------------------- */
 /* TOOLTIP
 /* --------------------- */
