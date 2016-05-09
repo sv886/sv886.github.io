@@ -18,6 +18,7 @@ body {
   line-height: 1.6;
 }
 body.fullscreen-image-background {
+  background-attachment: fixed;
   background-image: url('../img/sliders/slider8.png');
   background-size: cover;
   background-repeat: no-repeat;
