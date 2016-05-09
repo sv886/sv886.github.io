@@ -186,7 +186,7 @@ body #jpreBar {
 }
 
 .navbar-toggle {
-  background-color: #646464;
+  background-color: #000000;
 }
 .navbar-toggle .icon-bar {
   background-color: #fff;
@@ -194,7 +194,7 @@ body #jpreBar {
 
 @media screen and (max-width: 767px) {
   .navbar-collapse {
-    background-color: #646464;
+    background-color: #000000;
   }
 }
 /* --------------------- */
