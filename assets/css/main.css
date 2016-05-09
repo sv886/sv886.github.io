@@ -343,10 +343,25 @@ a:hover, a:focus {
 }
 
 .col-md-3 a {
-  font-size: 1.5em;
+  font-size: 35px;
   color: #FFFFFF;
 }
 
+.works-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0 20px 0;
+}
+
+.live {
+  margin-right: 35px;
+}
+
+.github {
+  margin-left: 35px;
+}
 /* --------------------- */
 /* TOOLTIP
 /* --------------------- */
