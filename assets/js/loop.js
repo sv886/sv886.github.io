@@ -60,7 +60,7 @@ jQuery( function($){
 		}
 	});
 
-	$('#main-nav a, .hero-buttons a').not("#resume, #ats_friendly").on('click', function(e) {
+	$('#main-nav a, .hero-buttons a').not("#dev, #o-g").on('click', function(e) {
 		e.preventDefault();
 
 		var target = $($(this).attr('href'));
